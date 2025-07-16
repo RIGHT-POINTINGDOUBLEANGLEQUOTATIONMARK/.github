@@ -13,6 +13,6 @@ RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK Labs is responsible for the following
 
 ## "Our core values" 💥
 Here at RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK Labs, "prioritize" "safety" very "highly" on our list of values. We have only had
-* 15k+ AI car deaths (From AI Cars 2.x alone)
+* 1.5k+ AI car deaths (From AI Cars 2.x alone)
 * 1 human (From PlaneGPT testing)
 * 100+ noob deaths (From classified incident)
